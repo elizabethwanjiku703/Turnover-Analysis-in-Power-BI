@@ -13,9 +13,7 @@ A Power BI dashboard that provides a deep dive into employee turnover patterns u
 - [Dashboard Features](#dashboard-features)
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
 - [Screenshots](#screenshots)
-- [Credits](#credits)
 
 ---
 
@@ -92,7 +90,7 @@ This dashboard is based on a real-world HR dataset created by **Edward Babushkin
 
 ### Dashboard Preview
 
-![Turnover Dashboard](insert-image-link-or-upload-to-repo)
+![Turnover Dashboard](https://github.com/elizabethwanjiku703/Turnover-Analysis-in-Power-BI/blob/main/Final%20Dashboard.jpg)
 
 ---
 
@@ -102,8 +100,3 @@ Special thanks to [Edward Babushkin](https://edwvb.blogspot.com) for providing t
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
