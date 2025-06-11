@@ -90,7 +90,7 @@ This dashboard is based on a real-world HR dataset created by **Edward Babushkin
 
 ### Dashboard Preview
 
-![Turnover Dashboard](https://github.com/elizabethwanjiku703/Turnover-Analysis-in-Power-BI/blob/main/Final%20Dashboard.jpg)
+![Turnover Dashboard](https://github.com/elizabethwanjiku703/Turnover-Analysis-in-Power-BI/blob/main/Dashboard.jpg)
 
 ---
 
