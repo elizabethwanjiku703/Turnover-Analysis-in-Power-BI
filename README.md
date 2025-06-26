@@ -63,7 +63,7 @@ The dashboard was built using Microsoft Power BI and incorporates interactive fi
 
 This dashboard is based on a real-world HR dataset created by **Edward Babushkin** as part of his work on predicting employee turnover.
 
-- Source: [Employee Turnover Dataset and Blog](https://edwvb.blogspot.com/2017/10/employee-turnover-how-to-predict-individual-risks-of-quitting.html?m=1)
+- Source: [Employee Turnover Dataset](https://www.kaggle.com/davinwijaya/employee-turnover)
 - Dataset includes anonymized employee-level data:
   - Gender
   - Age Group
